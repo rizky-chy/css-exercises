@@ -1,1 +1,21 @@
+*{
+    font-family: verdana, 'DeJavu Sans', sans-serif;
+}
+p{
+    background-color: #ffc0cb;
+
+}
+div{
+    color: #0000ff;
+    font-size: 36px;
+}
+.size{
+    font-size: 24px;
+}
+#num4{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+}
 /* Add CSS Styling */
